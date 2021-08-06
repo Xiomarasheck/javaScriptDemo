@@ -1,4 +1,4 @@
 # javaScriptDemo
 
 
-Reoisitorio de interes https://github.com/jscomplete/ngs
+Repositorio de interes https://github.com/jscomplete/ngs
