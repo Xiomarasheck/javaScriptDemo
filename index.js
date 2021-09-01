@@ -64,8 +64,6 @@ let condicional2 = true;
 let contador2 = 0;
 
 
-
-
 do {
     contador2 = 1;
     console.log("do:" + contador2);
@@ -129,3 +127,7 @@ let x = 1;
 x = x + 1;
 
 console.log(x);
+
+let hola = null;
+if (hola)
+    console.log("dfdfggñlklñdfkflñsdkgdflñkgñfldkgdflgkdflñ");
