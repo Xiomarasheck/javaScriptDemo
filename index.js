@@ -3,7 +3,7 @@
 //Para importar y utilizar express se debe agregar la siguiente línea de código:
 //import { express } from 'express';
 
-const express  =  require('express'); //import express cuando se tenga babel
+const express  = require('express'); //import express cuando se tenga babel
 var zlib = require('zlib');
 var http = require("http");
 const readline = require('readline');
